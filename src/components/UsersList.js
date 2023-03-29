@@ -15,7 +15,7 @@ function UsersList() {
   }, [dispatch]);
 
   if (isLoading) {
-    return <Skeleton times={6}>;
+    return <Skeleton times={6}/>;
   }
 
   if (error) {
