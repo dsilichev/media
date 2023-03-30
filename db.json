@@ -1,5 +1,30 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ms. Donald Daugherty",
+      "id": 2
+    },
+    {
+      "name": "Gustavo Schaefer",
+      "id": 3
+    },
+    {
+      "name": "Ira Morar",
+      "id": 4
+    },
+    {
+      "name": "Leo Kunze",
+      "id": 5
+    },
+    {
+      "name": "Katherine Schumm DVM",
+      "id": 6
+    }
+  ],
   "albums": [],
   "photos": []
 }
